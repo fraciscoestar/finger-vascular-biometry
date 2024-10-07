@@ -1,0 +1,6 @@
+#ifndef SECURITY_SYSTEM_CONFIG_H
+#define SECURITY_SYSTEM_CONFIG_H
+
+#cmakedefine BCMHOST
+
+#endif
